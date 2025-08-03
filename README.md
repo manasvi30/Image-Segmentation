@@ -1,6 +1,6 @@
-# Graph-Based Image Segmentation
+# Image Segmentation
 
-A Python implementation of the Felzenszwalb and Huttenlocher algorithm for image segmentation using graph-based methods. This project was part of COMP 323 coursework.
+A Python implementation of the Felzenszwalb and Huttenlocher algorithm for image segmentation using graph-based methods. 
 
 ##  Project Objectives
 - Implement and analyze a **graph-based image segmentation** method.
